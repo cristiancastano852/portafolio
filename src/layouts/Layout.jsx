@@ -13,4 +13,4 @@ const Layout = () => <Outlet />;
 //   );
 // };
 
-export {Layout};
+export { Layout };
