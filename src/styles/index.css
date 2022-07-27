@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .cards {
-    @apply flex snap-x w-full h-56 overflow-x-auto pl-4 justify-start content-center space-x-5 p-4 md:justify-center md:overflow-hidden lg:space-x-10 
+    @apply flex snap-x w-full h-56 overflow-x-auto pl-4 justify-start items-center content-center space-x-5 p-4 md:justify-center md:overflow-hidden lg:space-x-10 
   };
